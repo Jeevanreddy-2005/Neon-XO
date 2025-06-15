@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <main class="container">
+        <div id="tsparticles"></div>
+        <button id="startbtn">Start the Game Now </button>
+        <div class="gamecontent">
+            <div class="toggle-container">
+    <button id="darkModeToggle">🌙 Dark Mode</button>
+</div>
+            <h1>Tic-Tac-Toe</h1>
+            <div class="board">
+                <div class="cells" data-index="0"></div>
+                <div class="cells" data-index="1"></div>
+                <div class="cells" data-index="2"></div>
+                <div class="cells" data-index="3"></div>
+                <div class="cells" data-index="4"></div>
+                <div class="cells" data-index="5"></div>
+                <div class="cells" data-index="6"></div>
+                <div class="cells" data-index="7"></div>
+                <div class="cells" data-index="8"></div>
+            </div>
+            <div class="status"> Status</div>
+
+            <button id="resetbtn">Reset Now </button>
+            <audio src="click.mp3" id="clicksound"></audio>
+            <audio src="win.mp3" id=""></audio>
+            <audio src="click.mp3" id=""></audio>
+            
+        </div>
+    </main>
+    <script src="script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"></script>
+<script>
+    tsParticles.load("tsparticles", {
+        background: {
+            color: "#0e0e0e"
+        },
+        particles: {
+            number: {
+                value: 80
+            },
+            color: {
+                value: "#ffffff"
+            },
+            shape: {
+                type: "circle"
+            },
+            opacity: {
+                value: 0.3
+            },
+            size: {
+                value: 3
+            },
+            move: {
+                enable: true,
+                speed: 1
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
