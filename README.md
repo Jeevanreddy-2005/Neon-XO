@@ -24,6 +24,12 @@ Built for browsers, powered by vanilla **HTML**, **CSS**, and **JavaScript** —
 
 ---
 
+## 🌟 Demo  
+
+👉 [**Play Neon XO Live**](https://neon-xo.vercel.app/) 
+
+---
+
 ## 📸 Preview  
 
 <p align="center">
@@ -59,12 +65,6 @@ Neon-XO/
 ├── script.js
 └── README.md
 ```
-
----
-
-## 🌟 Demo  
-
-👉 [**Play Neon XO Live**](https://neon-xo.vercel.app/) 
 
 ---
 
