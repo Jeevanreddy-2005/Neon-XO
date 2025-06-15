@@ -34,6 +34,11 @@ Built for browsers, powered by vanilla **HTML**, **CSS**, and **JavaScript** —
 
 <p align="center">
   <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
+  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
+  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
+  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
+  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
+  
 </p>
 
 ---
