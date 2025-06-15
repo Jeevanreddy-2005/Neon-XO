@@ -64,7 +64,7 @@ Neon-XO/
 
 ## 🌟 Demo  
 
-👉 [**Play Neon XO Live**](#) 
+👉 [**Play Neon XO Live**](https://neon-xo.vercel.app/) 
 
 ---
 
