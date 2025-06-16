@@ -32,14 +32,10 @@ Built for browsers, powered by vanilla **HTML**, **CSS**, and **JavaScript** —
 
 ## 📸 Preview  
 
-<p align="center">
-  <img src="preview/Start_page.png" alt="Start_page" > Start_page
-  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
-  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
-  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
-  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
-  
-</p>
+ ![Start_page](preview/Start_page.png) Start page
+  ![Dark Theme](preview/dark_theme.png) Dark Theme
+   ![Light Theme](preview/light_theme.png) Light Theme
+    ![Winner Display](preview/winner_screen.png) Winner Display
 
 ---
 
