@@ -33,7 +33,7 @@ Built for browsers, powered by vanilla **HTML**, **CSS**, and **JavaScript** —
 ## 📸 Preview  
 
 <p align="center">
-  <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
+  <img src="preview/Start_page.png" alt="Start_page" > Start_page
   <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
   <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
   <img src="https://i.postimg.cc/x1HqsBZG/neon-xo-preview.gif" alt="Neon XO Demo" width="600"/>
